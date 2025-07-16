@@ -22,4 +22,4 @@ I am discouraging using this as it is against TOS, and this is for educational p
 2. **Install dependencies:**
 
    ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
